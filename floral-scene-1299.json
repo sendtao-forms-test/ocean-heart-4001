@@ -7,12 +7,12 @@
       "page": "twilight-water-4947:1",
       "condition": {
         "label": "Have all the answers in this section been completed successfully.",
-        "_true": "GOTO::long-truth-9184:1",
+        "_true": "GOTO::long-truth-9184:2",
         "_false": "CORRECT"
       }
     },
     {
-      "page": "long-truth-9184:1",
+      "page": "long-truth-9184:2",
       "condition": {
         "label": "Have all the answers in this section been completed successfully.",
         "_true": "SUBMIT",
