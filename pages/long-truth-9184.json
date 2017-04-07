@@ -131,6 +131,13 @@
               "type": "integer",
               "description": null,
               "validation": null
+            },
+            {
+              "id": "vibrant-frog-4545",
+              "label": "Remarks",
+              "type": "remark",
+              "description": null,
+              "validation": null
             }
           ]
         },
